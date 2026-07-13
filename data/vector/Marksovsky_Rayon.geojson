@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (908596 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="1746033" visible="true" version="34" changeset="181493667" timestamp="2026-04-18T11:16:32Z" user="Noro Hibu" uid="1832883">
+  <member type="way" ref="454861607" role="outer"/>
+  <member type="way" ref="340298169" role="outer"/>
+  <member type="way" ref="340298173" role="outer"/>
+  <member type="way" ref="1500713858" role="outer"/>
+  <member type="way" ref="1500713857" role="outer"/>
+  <member type="way" ref="129322485" role="outer"/>
+  <member type="way" ref="151245683" role="outer"/>
+  <member type="way" ref="340298172" role="outer"/>
+  <member type="way" ref="151245670" role="outer"/>
+  <member type="way" ref="494891333" role="outer"/>
+  <member type="way" ref="151245686" role="outer"/>
+  <member type="way" ref="341486190" role="outer"/>
+  <member type="way" ref="129322642" role="outer"/>
+  <member type="way" ref="343420830" role="outer"/>
+  <member type="way" ref="343470907" role="outer"/>
+  <member type="way" ref="340880875" role="outer"/>
+  <member type="way" ref="340880878" role="outer"/>
+  <member type="way" ref="129322631" role="outer"/>
+  <member type="way" ref="343161827" role="outer"/>
+  <member type="way" ref="340880880" role="outer"/>
+  <member type="way" ref="314871063" role="outer"/>
+  <member type="way" ref="340840802" role="outer"/>
+  <member type="way" ref="340840769" role="outer"/>
+  <member type="way" ref="315318771" role="outer"/>
+  <member type="way" ref="340294501" role="outer"/>
+  <member type="way" ref="129322596" role="outer"/>
+  <member type="way" ref="330290171" role="outer"/>
+  <member type="way" ref="885435408" role="outer"/>
+  <member type="way" ref="885435407" role="outer"/>
+  <member type="way" ref="330290166" role="outer"/>
+  <member type="way" ref="129322551" role="outer"/>
+  <member type="way" ref="359817839" role="outer"/>
+  <member type="way" ref="359823995" role="outer"/>
+  <member type="way" ref="340298171" role="outer"/>
+  <member type="way" ref="340298166" role="outer"/>
+  <member type="way" ref="340298168" role="outer"/>
+  <member type="way" ref="340840796" role="outer"/>
+  <member type="way" ref="340298167" role="outer"/>
+  <member type="way" ref="340840798" role="outer"/>
+  <member type="way" ref="454861599" role="outer"/>
+  <member type="way" ref="129322545" role="outer"/>
+  <member type="node" ref="281613050" role="admin_centre"/>
+  <member type="relation" ref="4839613" role="subarea"/>
+  <member type="relation" ref="4837690" role="subarea"/>
+  <member type="relation" ref="4837691" role="subarea"/>
+  <member type="relation" ref="4839762" role="subarea"/>
+  <member type="relation" ref="4839763" role="subarea"/>
+  <member type="relation" ref="4848162" role="subarea"/>
+  <member type="relation" ref="4848163" role="subarea"/>
+  <tag k="admin_level" v="6"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Марксовский район"/>
+  <tag k="name:en" v="Marksovsky District"/>
+  <tag k="name:ja" v="マルクス地区"/>
+  <tag k="name:ru" v="Марксовский район"/>
+  <tag k="name:sk" v="Marxovská oblasť"/>
+  <tag k="official_status" v="ru:муниципальный район"/>
+  <tag k="population" v="64003"/>
+  <tag k="population:date" v="2015-01-01"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q516637"/>
+  <tag k="wikipedia" v="ru:Марксовский район"/>
+ </relation>
+</osm>
